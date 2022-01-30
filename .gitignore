@@ -1,0 +1,15 @@
+# Compiled class file
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Generated files
+.idea
+
+target
+
+uploads
+application.properties
